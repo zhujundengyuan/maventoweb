@@ -4,7 +4,7 @@
   <artifactId>maventoweb</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-	<build>
+	<!--  <build>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
@@ -18,5 +18,5 @@
 			</plugin>
 
 		</plugins>
-	</build>
+	</build>-->
 </project>
